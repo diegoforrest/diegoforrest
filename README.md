@@ -22,5 +22,5 @@ Welcome to my github profile! I'm an addict gamer who dives into the world of co
 
 ![diegoforrest's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=diegoforrest&bg_color=000000&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
 
-
+![diegoforrest's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoforrest&layout=compact&theme=tokyonight&card_width=1080)
 
